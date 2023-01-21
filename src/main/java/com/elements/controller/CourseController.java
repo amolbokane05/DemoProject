@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 public class CourseController {
 
+    System.out.println("java learn");
+
 	
 	//course?name=SpringBoot
 			
